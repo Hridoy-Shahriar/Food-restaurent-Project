@@ -19,7 +19,7 @@ body {
       #090909 3.48%,
       rgba(16, 16, 16, 0) 101.63%
     ),
-    url("../assets/hero-bg.png");
+    url("./assets/hero-bg.png");
   background-size: cover;
   background-position: center;
   display: flex;
